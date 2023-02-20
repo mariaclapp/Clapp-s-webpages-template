@@ -4,17 +4,17 @@
  */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display SC", serif;
-  color: #333333; }
+  color: orange; }
 
 a, p, li {
   font-family: "Lato", Arial, sans-serif;
-  color: #4e4e4e;
+  color: pink;
   font-size: 1em;
   line-height: 1.75em; }
 
 a:hover {
   text-decoration: none !important;
-  color: #333333 !important;
+  color: blue !important;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
